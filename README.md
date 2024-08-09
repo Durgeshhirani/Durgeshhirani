@@ -19,11 +19,13 @@ I’m currently learning MongoDB, Express & APi Handling.
 Small things I create while learning
 
 2024
+- [onlineStore: php/laravel ecommerce platform](https://github.com/Durgeshhirani/onlineStore) - 20 Jul
 - [Focus Matrix: todo Eisenhower tool](http://focus-matrix-one.vercel.app/) (html,css,js) - 8 Jul
 - [Faq Accordian: frontendmentor challenge](https://faq-accordian-iota.vercel.app/) (html,css,js) - 23 Jun
 - [learning-interactive-tracker](https://interactive-learning-tracker.vercel.app/) (html,css,js) - 21 Apr
 
 2023
+- [Laragigs: Laravel Gigs Platform for freelancers](https://github.com/Durgeshhirani/Laragigs) - 13 Nov
 - [Movie App: Latest Movies Surfing & Searching Website](http://shimmering-maamoul-ffbcb3.netlify.app) (html, css, js) - 11 Aug
 - [Insect Catch Game](https://insect-catch-game-fun.netlify.app) (html, css, js) - 20 Sept
 
