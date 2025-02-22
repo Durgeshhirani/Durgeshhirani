@@ -1,6 +1,6 @@
 # Hey, I'm Durgesh
 
-Software & Automotive Engineer.
+Software & Automobile Engineer.
 
 ---
 
@@ -55,11 +55,11 @@ Small things I create while learning
 ---
 
 
+![Durgesh Hirani's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=durgeshhirani)
 
-
-<a href="https://github-contributor-stats.vercel.app/api?username=durgeshhirani&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
+<!-- <a href="https://github-contributor-stats.vercel.app/api?username=durgeshhirani&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
   <img src="https://github-contributor-stats.vercel.app/api?username=durgeshhirani&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
-</a>
+</a> -->
 <a href="https://github-readme-stats.vercel.app/api?username=durgeshhirani&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" target="_blank">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=durgeshhirani&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent" />
 </a>
