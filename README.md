@@ -55,7 +55,7 @@ Small things I create while learning
 ---
 
 
-![Durgesh Hirani's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=durgeshhirani)
+<!-- ![Durgesh Hirani's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=durgeshhirani) -->
 
 <!-- <a href="https://github-contributor-stats.vercel.app/api?username=durgeshhirani&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" target="_blank">
   <img src="https://github-contributor-stats.vercel.app/api?username=durgeshhirani&title_color=006AFF&text_color=417E87&icon_color=0579C3&bg_color=ffffff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true" />
