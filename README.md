@@ -1,6 +1,4 @@
-# Hey, I'm Durgesh
-
-Software & Automobile Engineer.
+# Hey, I'm Durgesh, Software & Automobile Engineer.
 
 ---
 
